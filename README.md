@@ -3,4 +3,5 @@
 
 Make something unexpected beautiful with Andrew Conru
 
-Eric wuz here
+Our actual github repository is located at https://github.com/conru/painter
+
